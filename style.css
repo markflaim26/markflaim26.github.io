@@ -6,3 +6,13 @@ h2{border-bottom:2px solid #ddd;padding-bottom:6px;margin-top:40px}
 .contact a{text-decoration:none}
 ul{padding-left:20px}
 footer{text-align:center;margin-top:40px;color:#666}
+.certification{
+    text-align:center;
+}
+
+.cert-badge{
+    width:160px;
+    height:auto;
+    display:block;
+    margin:0 auto 15px;
+}
