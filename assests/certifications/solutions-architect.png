@@ -1,1 +1,8 @@
-<img src="assets/certifications/solutions-architect.png" width="150">
+<div class="card certification">
+    <img
+        src="./assets/certifications/aws-solutions-architect-associate.png"
+        alt="AWS Solutions Architect Associate"
+        class="cert-badge">
+
+    <h3>AWS Certified Solutions Architect – Associate</h3>
+</div>
