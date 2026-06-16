@@ -1,8 +1,0 @@
-<div class="card certification">
-    <img
-        src="./assets/certifications/aws-developer-associate.png"
-        alt="AWS Developer Associate"
-        class="cert-badge">
-
-    <h3>AWS Certified Developer – Associate</h3>
-</div>
